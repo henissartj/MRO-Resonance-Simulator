@@ -13,3 +13,6 @@ This project provides a Python simulator for the Modèle de Résonance Ontogén�
 
 ## Installation
 Ensure Python 3.x is installed along with the dependencies:
+```
+pip install numpy scipy matplotlib
+```
