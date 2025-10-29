@@ -16,3 +16,6 @@ Ensure Python 3.x is installed along with the dependencies:
 ```
 pip install numpy scipy matplotlib
 ```
+
+## Contact
+For questions or collaboration interests, please reach out at henissartj@gmail.com or contact@epheverisme.art
